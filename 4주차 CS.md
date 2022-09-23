@@ -1,0 +1,22 @@
+- homework
+
+  - http method
+  - http status code ex)500 , 400
+  - url 인코딩 디코딩
+  - redirect vs forward
+
+  - jpa vs mybatis
+  - 페이지 교체 알고리즘(FIFO/OPT/LRU/LFU/MFU)
+  - mybatis cache
+    - local cache
+    - second level cache
+  - lombok 사용시 주의사항
+  - resultMap
+  - # vs $ 차이점
+  - connection pool
+    - 왜 사용하는지
+    - HikariPool는 무엇인지
+  - 객체 주입
+    - 방식은 머가 잇는지
+    - 왜 생성자 방식을 선호하는지
+  - spring mvc 라이프 사이클
